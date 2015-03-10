@@ -31,3 +31,6 @@ phpunit.phar
 
 /backend/runtime/*
 /frontend/runtime/*
+
+# local *-local.php config
+*-local.config

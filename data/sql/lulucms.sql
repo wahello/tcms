@@ -19,8 +19,8 @@ SET time_zone = "+00:00";
 --
 -- 数据库: `lulucms`
 --
-CREATE DATABASE IF NOT EXISTS `lulucms` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
-USE `lulucms`;
+CREATE DATABASE IF NOT EXISTS `tcms` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+USE `tcms`;
 
 -- --------------------------------------------------------
 

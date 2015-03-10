@@ -7811,3 +7811,107 @@ $_SERVER = [
     'REQUEST_TIME_FLOAT' => 1423266704.377
     'REQUEST_TIME' => 1423266704
 ]
+2015-03-10 16:55:15 [127.0.0.1][1][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'app' does not exist: E:\wamp\www\tcms\backend/messages/zh-CN/app.php Fallback file does not exist as well: E:\wamp\www\tcms\backend/messages/zh/app.php
+    in E:\wamp\www\tcms\backend\views\define-table\index.php:39
+    in E:\wamp\www\tcms\backend\controllers\DefineTableController.php:54
+2015-03-10 16:55:15 [127.0.0.1][1][-][info][application] $_GET = [
+    'r' => 'define-table/index'
+]
+
+$_COOKIE = [
+    '_csrf' => 'ea8246fa7958ab6a3a3e49cb0b30dea812a8321a57563bcce11981850f623690s:32:\"lQz8BZApwPL7xfMEcvF6qsWmZGqbUvaV\";'
+    'PHPSESSID' => 'irp5v9n7miq7vgqr48oomb0v14'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__returnUrl' => '/admin.php'
+    '__id' => 1
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'dev.tcms.com'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36'
+    'HTTP_REFERER' => 'http://dev.tcms.com/admin.php?r=admin%2Fsys'
+    'HTTP_ACCEPT_ENCODING' => 'gzip,deflate,sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.8'
+    'HTTP_COOKIE' => '_csrf=ea8246fa7958ab6a3a3e49cb0b30dea812a8321a57563bcce11981850f623690s%3A32%3A%22lQz8BZApwPL7xfMEcvF6qsWmZGqbUvaV%22%3B; PHPSESSID=irp5v9n7miq7vgqr48oomb0v14'
+    'PATH' => 'C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Python27\\;C:\\Python27\\Scripts;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\ATI Technologies\\ATI.ACE\\Core-Static;C:\\Program Files (x86)\\Microsoft SQL Server\\90\\Tools\\binn\\;E:\\wamp\\MySQL5.5\\bin;E:\\wamp\\php5;C:\\Program Files\\TortoiseSVN\\bin;C:\\jdk1.8.0_31\\bin;'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.2.4 (Win32) PHP/5.4.28'
+    'SERVER_NAME' => 'dev.tcms.com'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'E:/wamp/www/tcms'
+    'SERVER_ADMIN' => 'a@a.com'
+    'SCRIPT_FILENAME' => 'E:/wamp/www/tcms/admin.php'
+    'REMOTE_PORT' => '12987'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=define-table%2Findex'
+    'REQUEST_URI' => '/admin.php?r=define-table%2Findex'
+    'SCRIPT_NAME' => '/admin.php'
+    'PHP_SELF' => '/admin.php'
+    'REQUEST_TIME_FLOAT' => 1426006515.148
+    'REQUEST_TIME' => 1426006515
+]
+2015-03-10 16:55:19 [127.0.0.1][1][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'app' does not exist: E:\wamp\www\tcms\backend/messages/zh-CN/app.php Fallback file does not exist as well: E:\wamp\www\tcms\backend/messages/zh/app.php
+    in E:\wamp\www\tcms\backend\views\content-flag\index.php:36
+    in E:\wamp\www\tcms\backend\controllers\ContentFlagController.php:25
+2015-03-10 16:55:19 [127.0.0.1][1][-][info][application] $_GET = [
+    'r' => 'content-flag/index'
+]
+
+$_COOKIE = [
+    '_csrf' => 'ea8246fa7958ab6a3a3e49cb0b30dea812a8321a57563bcce11981850f623690s:32:\"lQz8BZApwPL7xfMEcvF6qsWmZGqbUvaV\";'
+    'PHPSESSID' => 'irp5v9n7miq7vgqr48oomb0v14'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__returnUrl' => '/admin.php'
+    '__id' => 1
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'dev.tcms.com'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36'
+    'HTTP_REFERER' => 'http://dev.tcms.com/admin.php?r=admin%2Fsys'
+    'HTTP_ACCEPT_ENCODING' => 'gzip,deflate,sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.8'
+    'HTTP_COOKIE' => '_csrf=ea8246fa7958ab6a3a3e49cb0b30dea812a8321a57563bcce11981850f623690s%3A32%3A%22lQz8BZApwPL7xfMEcvF6qsWmZGqbUvaV%22%3B; PHPSESSID=irp5v9n7miq7vgqr48oomb0v14'
+    'PATH' => 'C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Python27\\;C:\\Python27\\Scripts;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\ATI Technologies\\ATI.ACE\\Core-Static;C:\\Program Files (x86)\\Microsoft SQL Server\\90\\Tools\\binn\\;E:\\wamp\\MySQL5.5\\bin;E:\\wamp\\php5;C:\\Program Files\\TortoiseSVN\\bin;C:\\jdk1.8.0_31\\bin;'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.2.4 (Win32) PHP/5.4.28'
+    'SERVER_NAME' => 'dev.tcms.com'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'E:/wamp/www/tcms'
+    'SERVER_ADMIN' => 'a@a.com'
+    'SCRIPT_FILENAME' => 'E:/wamp/www/tcms/admin.php'
+    'REMOTE_PORT' => '12987'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=content-flag%2Findex'
+    'REQUEST_URI' => '/admin.php?r=content-flag%2Findex'
+    'SCRIPT_NAME' => '/admin.php'
+    'PHP_SELF' => '/admin.php'
+    'REQUEST_TIME_FLOAT' => 1426006519.647
+    'REQUEST_TIME' => 1426006519
+]

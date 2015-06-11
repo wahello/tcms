@@ -1,15 +1,13 @@
-LuLu CMS
+TCMS
 ===================================
 
-Õâ¸öÊÇ»ùÓÚ Yii Framework(2.0-release)¿ª·¢µÄÒ»Ì×CMS¹ÜÀíÏµÍ³
+è¿™ä¸ªæ˜¯åŸºäº Yii Framework(2.0-release)å¼€å‘çš„ä¸€å¥—CMSç®¡ç†ç³»ç»Ÿ
 
-ÏëÁË½â¸ü¶àĞÅÏ¢Çë¼ÓÈë QQÈº:308110659
+æƒ³äº†è§£æ›´å¤šä¿¡æ¯è¯·åŠ å…¥ QQ: 940397372
 
 This is a CMS system powered by Yii Framework(2.0-release)
-
-For more information please join QQ group:308110659
 
 Install
 
 Database:
-import the sql script from lulucms\data\sql\lulucms.sql
+import the sql script from tcms\data\sql\tcms.sql
